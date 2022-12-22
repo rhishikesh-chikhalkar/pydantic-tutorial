@@ -1,1 +1,1 @@
-# Pydantic tutorial
+# python-pydantic-tutorial
